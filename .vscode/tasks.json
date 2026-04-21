@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Packwiz: Instalar mod",
+      "label": "Packwiz: Add",
       "icon": {
         "id": "cloud-download",
         "color": "terminal.ansiGreen"
@@ -12,13 +12,16 @@
       "problemMatcher": []
     },
     {
-      "label": "Packwiz: Atualizar",
+      "label": "Packwiz: Refresh",
       "icon": {
         "id": "refresh",
         "color": "terminal.ansiMagenta"
       },
-      "type": "shell",
-      "command": "packwiz refresh",
+      "dependsOn": [
+        "update.files",
+        "packwiz.refresh"
+      ],
+      "dependsOrder": "sequence",
       "isBackground": true,
       "problemMatcher": []
     },
@@ -30,12 +33,22 @@
     },
     {
       "hide": true,
+      "label": "update.files",
+      "type": "shell",
+      "command": "python",
+      "args": [
+            ".\\scripts\\config.py",
+            "${userHome}\\AppData\\Roaming\\PrismLauncher\\instances\\Insomnia\\minecraft"
+        ]
+    },
+    {
+      "hide": true,
       "label": "scripts.install",
       "type": "process",
       "command": "python",
-      
+
       "args": [
-        "${workspaceFolder}/.vscode/install.py",
+        "${workspaceFolder}/scripts/install.py",
         "${input:category}",
         "${input:modspec}"
       ],
@@ -50,13 +63,24 @@
     {
       "id": "category",
       "type": "pickString",
-      "description": "Categoria para adicionar",
+      "description": "The category to add to",
       "options": [
         "datapacks",
         "resourcepacks",
+        "shaderpacks",
 
+        "cooking",
+        "decoration",
+        "library",
+        "mobs",
+        "equipment",
+        "mechanics",
+        "misc",
         "performance",
-        "utilitarios"
+        "technology",
+        "utilities",
+        "structures",
+        "world"
       ]
     }
   ]

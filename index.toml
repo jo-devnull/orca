@@ -2,14 +2,356 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "a4f2f992eb0eb0f51415d2788e02b1522b4be84f333db8e36cfa1cf1eeddadad"
+hash = "c90c3813cde40631fb14c2d023900343c2bba59da5fbdc215d0b9be366257871"
 
 [[files]]
-file = "mods/performance/embeddium.pw.toml"
-hash = "4b9930bbefbf7f91c53ccdea60cfbd8ae2e3b476f07f5cc948b2bd905f3d6fb7"
+file = "mods/library/architectury-api.pw.toml"
+hash = "593f55fdacbf7805124814a788c313441ac9b6d7d195b03b0cbe70bf8e4214d6"
 metafile = true
 
 [[files]]
-file = "mods/utilitarios/resource-pack-overrides.pw.toml"
-hash = "b64eacbc1ad09e7e3c708932d3490df2d860282319367f9d006b1db282c75902"
+file = "mods/library/balm.pw.toml"
+hash = "c0735ce871f96fe69c5f8612c55f17153cff7c872a52a21c5a27d9c77fb9e574"
 metafile = true
+
+[[files]]
+file = "mods/library/cloth-config.pw.toml"
+hash = "48723b75591dc49ad0821d868398bfc3d12f157031bf34170f66ecb986a4efd3"
+metafile = true
+
+[[files]]
+file = "mods/library/craterlib.pw.toml"
+hash = "94ca1789e9937ab3073347a9c0461e78140fa4aba4c34b7a8b381702424c43ca"
+metafile = true
+
+[[files]]
+file = "mods/library/cupboard.pw.toml"
+hash = "1dad7801d56dd286b77dd690c018a9427eda0b981aaf2b169494a7c37fb88964"
+metafile = true
+
+[[files]]
+file = "mods/library/curios.pw.toml"
+hash = "b69954827d10eb65e2a16272527ef6e8ff6ede2e0cebdc63e1bd385b61a1e8e9"
+metafile = true
+
+[[files]]
+file = "mods/library/fzzy-config.pw.toml"
+hash = "db89b59057347f7373e68e225fe9a56288b369b7e95996a42cb0985a9578fd54"
+metafile = true
+
+[[files]]
+file = "mods/library/geckolib.pw.toml"
+hash = "6398a62ccca407ed0d2e5457312138f952cfedae7c3faebfadb22d0fce59c2db"
+metafile = true
+
+[[files]]
+file = "mods/library/irons-lib.pw.toml"
+hash = "8037a79b02c02fc6855e0da10c4ecdfbd80a2a207dc16993d9c4846816a3ffcf"
+metafile = true
+
+[[files]]
+file = "mods/library/kiwi.pw.toml"
+hash = "c30253b2a7523b58ea878229e5b8f011209a2cf5541ce9e5840dae7958bd9fb2"
+metafile = true
+
+[[files]]
+file = "mods/library/kotlin-for-forge.pw.toml"
+hash = "19ea184b4b7f40fe84ec88d082f94f5ba5258d394cc6c2c2fe25b938ef376ba2"
+metafile = true
+
+[[files]]
+file = "mods/library/moonlight.pw.toml"
+hash = "4cb29bd2ce14bc9c3879a7973b2c3b5f1feefc314406ee81cee254397b7504bc"
+metafile = true
+
+[[files]]
+file = "mods/library/oelib.pw.toml"
+hash = "1fb8b6bb20fd83bfb30cb89bae03d95469a3ba63152ab79b44f07ad19f773142"
+metafile = true
+
+[[files]]
+file = "mods/library/petrolpark.pw.toml"
+hash = "ee4dfb639221d13ce2dddd292dd148186d834422c3f041cfab42220457c756db"
+metafile = true
+
+[[files]]
+file = "mods/library/playeranimator.pw.toml"
+hash = "48b184151baabe6d3d3f4638726c023172c4b06c856881dcb232e864f49740ef"
+metafile = true
+
+[[files]]
+file = "mods/library/reeses-sodium-options.pw.toml"
+hash = "af84c65a4e042901215c571155d8aefb9b5bcdb69f25133d1ec90f7145da4da6"
+metafile = true
+
+[[files]]
+file = "mods/library/resourceful-config.pw.toml"
+hash = "40c32abec4baf04c7b2c654a761bcafd47a9eea40bc438cb33d5b27ccf2702a3"
+metafile = true
+
+[[files]]
+file = "mods/library/sable.pw.toml"
+hash = "02510f5842a117b826c51c1247911bad67ad79cf3c7d7cb0dbba4e77a51c9ad3"
+metafile = true
+
+[[files]]
+file = "mods/library/searchables.pw.toml"
+hash = "1cb3aa3f82c17eb75fdd3117517c40deb67b28313cf133259f8197fdc3d5b568"
+metafile = true
+
+[[files]]
+file = "mods/library/sodium-options-api.pw.toml"
+hash = "10110c5ecbd2996bf6704ab95a15db09d37b46cf4afea3da169627121f9a9111"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
+hash = "16f972a332f43359e94cd197e7804a7abf35625c411352a11642c3f44db0248f"
+metafile = true
+
+[[files]]
+file = "mods/performance/accelerated-decay.pw.toml"
+hash = "819594792f5ad13e0cacd2a0ec136790c7407d8ddaf1a2cfde778000ed1545a2"
+metafile = true
+
+[[files]]
+file = "mods/performance/badoptimizations.pw.toml"
+hash = "415f7f58ef742fd92b7368357ccc79803b8f048ff238b799bf8d55e91942bdad"
+metafile = true
+
+[[files]]
+file = "mods/performance/chloride.pw.toml"
+hash = "f8224d94ce48a9956936283c0d7aebecdc5a28416b4eb1d8afd2a2490af47473"
+metafile = true
+
+[[files]]
+file = "mods/performance/fast-paintings.pw.toml"
+hash = "599cee5ac8d606a4513473be19987b8235ae677faad7d8515226ac19f89d7609"
+metafile = true
+
+[[files]]
+file = "mods/performance/ferrite-core.pw.toml"
+hash = "4f04817c4f3805448298cb6239419c8ac8dedf282da2bc4cf26574b749e7b29b"
+metafile = true
+
+[[files]]
+file = "mods/performance/flerovium.pw.toml"
+hash = "a8992a07ca19f1af13d103cb31cb29f088ec98430c2e969effe213c05fc6f85e"
+metafile = true
+
+[[files]]
+file = "mods/performance/immediatelyfast.pw.toml"
+hash = "29eec670082e0d37920d628493d6ada03f2d14c7a2e69a6c8a54655468a5e445"
+metafile = true
+
+[[files]]
+file = "mods/performance/lithium.pw.toml"
+hash = "10afc3e58f1ff42212bc1093a1fc5744c77ceaf5c5fede4d0ebadcf8d3e45902"
+metafile = true
+
+[[files]]
+file = "mods/performance/modernfix.pw.toml"
+hash = "bc45a3d10c35ff33425691c0d143051d98772426fbe8f7fdf968b17205fbbe34"
+metafile = true
+
+[[files]]
+file = "mods/performance/moreculling.pw.toml"
+hash = "807edfb96b6dbb1485ffe81ede3d735c5904ffcc5398544209304bd36fb69baf"
+metafile = true
+
+[[files]]
+file = "mods/performance/packet-fixer.pw.toml"
+hash = "5356ad771bffe1474f9af6d0364858d1cce4d5d6c15e095d76f7b45a314ccd33"
+metafile = true
+
+[[files]]
+file = "mods/performance/particle-core.pw.toml"
+hash = "0a8baf96caee80bcd99aab0d63f13b783615465f758d74b038b961d42ad0c312"
+metafile = true
+
+[[files]]
+file = "mods/performance/saturn.pw.toml"
+hash = "cefbebcdf3c09506990f2d890317ddcb1010eb11e09acf131ff28e2dff9320a6"
+metafile = true
+
+[[files]]
+file = "mods/performance/servercore.pw.toml"
+hash = "6a02d87e89e30d6f2890dd8c54ae3dc54baa92751f2c9bda370fabd112db4775"
+metafile = true
+
+[[files]]
+file = "mods/performance/sodium.pw.toml"
+hash = "01004dc59d060c48bcaf9b2d3a9e69d8f7116964bb351a82a563c0014440866a"
+metafile = true
+
+[[files]]
+file = "mods/performance/structure-essentials-forge-fabric.pw.toml"
+hash = "dfc50a2fc5d34b46ea540c74b983f0a63d859ba1c2bbe296fd0823ec21e61bba"
+metafile = true
+
+[[files]]
+file = "mods/performance/structure-layout-optimizer.pw.toml"
+hash = "6d6e73838520fc642ae5f9af71cd4102820a21c0c65f948fb89b68f12523aa38"
+metafile = true
+
+[[files]]
+file = "mods/technology/copycats.pw.toml"
+hash = "27ab30ac50687a79a5d77b406145fe79d88407c3c977b96fb8197a551575e896"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-aeronautics.pw.toml"
+hash = "8244f2fa0b2c47a00e39e63c4ef9d5f62ee4acaa044cd7f2f7f513ba34039351"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-diesel-generators.pw.toml"
+hash = "6bcce12d2576e81bec3e036e8f6858bc45e352a048cf8ee4f6ef10f91d4f41b7"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-ironworks.pw.toml"
+hash = "d0ba96b9124cdbe3fc405cbc823b731b9afcfd0f2cb88ca6ddb12be5f06d3cef"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-low-heated.pw.toml"
+hash = "efc399e3106e42745fa470962f9fe471b15f102a7342b3e9eaeb2996c561746a"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-transmission!.pw.toml"
+hash = "352e0b6d453025a92a7fa33b839db256bead697af8d1fa59fabbcaa4833a1cbc"
+metafile = true
+
+[[files]]
+file = "mods/technology/create-wizardry.pw.toml"
+hash = "88670be4abea3867bdb6cbd9e59bfb9dead6104a652cb027a36463902020c3be"
+metafile = true
+
+[[files]]
+file = "mods/technology/create.pw.toml"
+hash = "e49beabbd5a6ae7a5bcc99206a35b4a2736b755929aeeac34325bf3bddb35150"
+metafile = true
+
+[[files]]
+file = "mods/technology/petrols-parts.pw.toml"
+hash = "2888d0fec14025b60341a96dd1fc4c9aff1d6605b4ba19d596868ad3dab5d01a"
+metafile = true
+
+[[files]]
+file = "mods/technology/power-grid.pw.toml"
+hash = "e5f2c3a4c72d3168e377d5f7a5f8b6cb755ecb3a4de34c0947e0962b94e80294"
+metafile = true
+
+[[files]]
+file = "mods/technology/slice-and-dice.pw.toml"
+hash = "ab67f88057612fd07fd3a329c3df920b616935699ef23d426bb45da1c9ce7ec7"
+metafile = true
+
+[[files]]
+file = "mods/utilities/catalogue.pw.toml"
+hash = "cd89f5442669e3fa0a9c9af53cacdbfeb69853ad6e83b8ff8b8e7190d6327805"
+metafile = true
+
+[[files]]
+file = "mods/utilities/client-tweaks.pw.toml"
+hash = "78416fe608c13cd78b5e0f8274a7bb17baec38129aec8acd335c40272dab1f60"
+metafile = true
+
+[[files]]
+file = "mods/utilities/configured.pw.toml"
+hash = "f59fc611df96c9450edfba9b21df2d4a542a6eb961c08bc6b07ce49129a1cd7c"
+metafile = true
+
+[[files]]
+file = "mods/utilities/controlling.pw.toml"
+hash = "892857341f728150b232ad41cddaab9b8d4200e693730dcd3cbb8d3ef713053d"
+metafile = true
+
+[[files]]
+file = "mods/utilities/emi.pw.toml"
+hash = "f7b6b9a35201d11ce33dd1d2e6ae23bd705712201983917c8f93cb86965a8299"
+metafile = true
+
+[[files]]
+file = "mods/utilities/globalpacks.pw.toml"
+hash = "4dd5633cb99d300df64e4772252a66adf7b387883a7bb4cc86fa8b1c7d4aaef3"
+metafile = true
+
+[[files]]
+file = "mods/utilities/in-control.pw.toml"
+hash = "efdaab0acef3635585b35fe1f1fcc134973e9d4409b1b140d7213270f3beb33a"
+metafile = true
+
+[[files]]
+file = "mods/utilities/jei.pw.toml"
+hash = "ac2c9b30b6d330685c5f50f8a71da1618cdba43787d450b3e231ddfd329c5df1"
+metafile = true
+
+[[files]]
+file = "mods/utilities/lychee.pw.toml"
+hash = "f98294f1f23ed39d25ff8a3e0222d85902404431a77738fe55957c2cd25f8278"
+metafile = true
+
+[[files]]
+file = "mods/utilities/mcwifipnp.pw.toml"
+hash = "21ff233b881014a8664477ad29a08cfd0e499789c20e061d765c3a9a10b8b4fd"
+metafile = true
+
+[[files]]
+file = "mods/utilities/minepkl.pw.toml"
+hash = "e6e524cb29e31e64abcc3ae14a2817849512117efc2b31c2fe983af224cfa238"
+metafile = true
+
+[[files]]
+file = "mods/utilities/one-enough-item.pw.toml"
+hash = "1c014ce536480d3c37b2add72c43da62c13e51d4d661b010b120cb77f6d86644"
+metafile = true
+
+[[files]]
+file = "mods/utilities/reeses-sodium-options.pw.toml"
+hash = "af84c65a4e042901215c571155d8aefb9b5bcdb69f25133d1ec90f7145da4da6"
+metafile = true
+
+[[files]]
+file = "mods/utilities/resource-pack-overrides.pw.toml"
+hash = "eb39ef4c24917055c8c43fdb9a887e08a79cef37ff2da85dff5883c2ded93333"
+metafile = true
+
+[[files]]
+file = "mods/utilities/simple-discord-rpc.pw.toml"
+hash = "0f794ad72357022af84e6d81a5d5cb41fae1d4cdf4c8258d9f70f5efef14f6e4"
+metafile = true
+
+[[files]]
+file = "mods/utilities/sodium-dynamic-lights.pw.toml"
+hash = "a9c8b5c9dec4b23a1fec6b61bf1e5cf689b121449a16184282209ae678e45e46"
+metafile = true
+
+[[files]]
+file = "mods/utilities/sodium.pw.toml"
+hash = "01004dc59d060c48bcaf9b2d3a9e69d8f7116964bb351a82a563c0014440866a"
+metafile = true
+
+[[files]]
+file = "mods/utilities/sparsestructures.pw.toml"
+hash = "9c7639f66ac9c8e7cbd448c3637aa8e8c865727fbc4888818b160323a06ec5e5"
+metafile = true
+
+[[files]]
+file = "mods/utilities/wits.pw.toml"
+hash = "29c5aac57801b23106f359a8e3d55a5d1b740b3cf3b28d41ea722a18830b2682"
+metafile = true
+
+[[files]]
+file = "scripts/config.py"
+hash = "0668f3c1046239954ff26fc03bd1e9ac9784e450e9b1898a268b2dd2bc23cbdc"
+
+[[files]]
+file = "scripts/docs.py"
+hash = "7873711a5147db21ee07666621dc84ba308698346054b6d622cf1de48abd7025"
+
+[[files]]
+file = "scripts/install.py"
+hash = "63bd0ff4a4c4b3fb10c8d09f7707ff24fc7a183f216997fbc8ab9dee91779117"

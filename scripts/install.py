@@ -6,13 +6,19 @@ from pathlib import Path
 from subprocess import run
 
 ROOT = Path(os.getcwd())
-DEPENDENCIAS = "bibliotecas"
+
+TYPE_MAP = {
+    'datapack': 'packs/server',
+    'resourcepack': 'packs/client'
+}
 
 def platform_of(url: str):
     if "modrinth.com" in url:
         return "modrinth"
     elif "curseforge.com" in url:
         return "curseforge"
+    elif "github.com" in url:
+        return "github"
     else:
         raise ValueError("Unsupported platform")
 
@@ -38,26 +44,28 @@ def install(type: str, url: str):
             if modname in url:
                 modfile = file
 
-            text = file.read_text()
+            text = file.read_text(encoding='utf-8')
             text = text.replace('filename = "', 'filename = "../')
             text = text.replace('side = "server"', 'side = "both"')
-            
+
             file.write_text(text)
 
         if modfile == None or not modfile.exists():
             raise FileNotFoundError("Mod not found")
 
         modpath = ROOT / f"mods/{type}/{modfile.name}"
-        modfile.rename(modpath)
+
+        if not modpath.exists():
+            modfile.rename(modpath)
 
         for file in tempdir.glob("*.pw.toml"):
-            libpath = ROOT / f"mods/{DEPENDENCIAS}" / file.name
+            libpath = ROOT / f"mods/library" / file.name
 
             if not libpath.exists() and file != modfile:
                 shutil.move(file, libpath)
 
     else:
-        run(f"packwiz.exe -y {platform} add {url} --meta-folder {type}", shell=True)
+        run(f"packwiz.exe -y {platform} add {url} --meta-folder {TYPE_MAP[type]}", shell=True)
 
     if tempdir.exists():
         shutil.rmtree(".temp")
