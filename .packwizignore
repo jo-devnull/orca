@@ -1,0 +1,16 @@
+node_modules/
+.vscode/
+.temp/
+python/
+datagen/
+.editorconfig
+
+*.mrpack
+*.log
+*.lock
+*lock.*
+
+\!*
+
+.gitkeep
+README.md

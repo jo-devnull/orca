@@ -1,0 +1,63 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Packwiz: Instalar mod",
+      "icon": {
+        "id": "cloud-download",
+        "color": "terminal.ansiGreen"
+      },
+      "dependsOn": ["scripts.install"],
+      "dependsOrder": "sequence",
+      "problemMatcher": []
+    },
+    {
+      "label": "Packwiz: Atualizar",
+      "icon": {
+        "id": "refresh",
+        "color": "terminal.ansiMagenta"
+      },
+      "type": "shell",
+      "command": "packwiz refresh",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "hide": true,
+      "label": "packwiz.refresh",
+      "type": "shell",
+      "command": "packwiz refresh"
+    },
+    {
+      "hide": true,
+      "label": "scripts.install",
+      "type": "process",
+      "command": "python",
+      
+      "args": [
+        "${workspaceFolder}/.vscode/install.py",
+        "${input:category}",
+        "${input:modspec}"
+      ],
+    },
+  ],
+  "inputs": [
+    {
+      "id": "modspec",
+      "type": "promptString",
+      "description": "Mod source (ID, URL, Slug...)"
+    },
+    {
+      "id": "category",
+      "type": "pickString",
+      "description": "Categoria para adicionar",
+      "options": [
+        "datapacks",
+        "resourcepacks",
+
+        "performance",
+        "utilitarios"
+      ]
+    }
+  ]
+}

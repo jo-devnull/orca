@@ -1,0 +1,38 @@
+{
+    "schema_version": 2,
+    "failed_reloads_per_session": 5,
+    "default_packs": [
+        
+    ],
+
+    "default_overrides": {
+        "force_compatible": true
+    },
+
+    "pack_overrides": {
+        "vanilla": {
+            "title": "\"Vanilla Assets\"",
+            "description": "\"Resourcepacks from Minecraft\""
+        },
+
+        "mod_resources": {
+            "title": "\"Modded Assets\"",
+            "description": "\"Resourcepacks from mods\""
+        },
+
+        "server": {
+            "default_position": "BOTTOM",
+            "force_compatible": true,
+            "fixed_position": false
+        },
+
+        "1": [
+            
+        ],
+
+        "$$1": {
+            "hidden": true,
+            "required": true
+        }
+    }
+}

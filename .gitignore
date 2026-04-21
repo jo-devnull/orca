@@ -1,0 +1,11 @@
+node_modules
+
+# Exclude exported Modrinth modpacks
+*.mrpack
+*.log
+*.lock
+*lock.*
+
+.temp
+.probe
+/gen

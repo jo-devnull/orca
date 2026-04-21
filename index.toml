@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "a4f2f992eb0eb0f51415d2788e02b1522b4be84f333db8e36cfa1cf1eeddadad"
+
+[[files]]
+file = "mods/performance/embeddium.pw.toml"
+hash = "4b9930bbefbf7f91c53ccdea60cfbd8ae2e3b476f07f5cc948b2bd905f3d6fb7"
+metafile = true
+
+[[files]]
+file = "mods/utilitarios/resource-pack-overrides.pw.toml"
+hash = "b64eacbc1ad09e7e3c708932d3490df2d860282319367f9d006b1db282c75902"
+metafile = true

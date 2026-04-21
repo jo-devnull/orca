@@ -1,0 +1,13 @@
+name = "Template"
+author = "Author"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2f1241510010001014720d5ff9901662f149a3b826bbefe701ddcb833c4e4e0"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
