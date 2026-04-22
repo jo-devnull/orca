@@ -5,6 +5,51 @@ file = "config/resourcepackoverrides.json"
 hash = "c90c3813cde40631fb14c2d023900343c2bba59da5fbdc215d0b9be366257871"
 
 [[files]]
+file = "mods/cooking/brewin-and-chewin.pw.toml"
+hash = "883fcdd91d08d19cb2ae47f05691a078e3987dee455a0db29d1dec72a1432cca"
+metafile = true
+
+[[files]]
+file = "mods/cooking/chefs-delight.pw.toml"
+hash = "cd37db207f10bf53f90e9338b4c087a20bb7cab6350e74f574993e4113859c2b"
+metafile = true
+
+[[files]]
+file = "mods/cooking/farmers-delight.pw.toml"
+hash = "d8380f94738e9e89affa6690b6cfb01b2a678ccc8208a28450de5bf050d27d12"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "d0c02c937688ae5b42f013d6ab1b13b007d7cc3fd0061462e98b99c0912fa8f1"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "23dc6f6671f548b7ddbe4c5bcef0e2b8d41d67f6df94e1a55fa42bd6c339ae0e"
+metafile = true
+
+[[files]]
+file = "mods/cooking/lets-do-farm-charm.pw.toml"
+hash = "9a06aa5df86cfd1d781dd33658df94b8c53666fe6486b497998929a69cfc21d6"
+metafile = true
+
+[[files]]
+file = "mods/cooking/miners-delight.pw.toml"
+hash = "98fb0746f5b14c2fe74c9c6951e5d1a6d9a7abca500830364a95d8882c6d7ccb"
+metafile = true
+
+[[files]]
+file = "mods/cooking/oceans-delight.pw.toml"
+hash = "240af55c57e4659c8260a5c2f7db08b54483e2ebf3920c217fce50d6c502e2f5"
+metafile = true
+
+[[files]]
+file = "mods/cooking/rustic-delight.pw.toml"
+hash = "d493335936b6e45880e87a585badf46fc99cf67298bafe442f629314ca479924"
+metafile = true
+
+[[files]]
 file = "mods/library/architectury-api.pw.toml"
 hash = "593f55fdacbf7805124814a788c313441ac9b6d7d195b03b0cbe70bf8e4214d6"
 metafile = true
@@ -57,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/library/kotlin-for-forge.pw.toml"
 hash = "19ea184b4b7f40fe84ec88d082f94f5ba5258d394cc6c2c2fe25b938ef376ba2"
+metafile = true
+
+[[files]]
+file = "mods/library/lodestonelib.pw.toml"
+hash = "91623a87b3c032709ab4fa5d8063b0a520e36bb9855a966236771afcb69d0fe5"
 metafile = true
 
 [[files]]
