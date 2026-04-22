@@ -1,0 +1,13 @@
+name = "Sawmill House"
+filename = "../sawmillhouse-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnIz9L5P/versions/nBroCa2o/sawmillhouse-2.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "3c0db3c8ad084177937b4eadf6741f24fe7a6ae1366d86516b6da1d9acd36fbf951d53341c4da425b87eb94e8be3009a592d553d0284a3886ff8ffd7d907487d"
+
+[update]
+[update.modrinth]
+mod-id = "pnIz9L5P"
+version = "nBroCa2o"

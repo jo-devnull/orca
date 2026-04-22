@@ -1,0 +1,13 @@
+name = "Berezka's library"
+filename = "../berezka_api-1.2.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bada5625c1b8382f25394ce56671c7b0a5138bab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7531041
+project-id = 1160598

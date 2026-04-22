@@ -1,0 +1,13 @@
+name = "ParCool+ / Compatibility Addon NeoForge Edition"
+filename = "../ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f2232b04b4af124b9ae146b55a6a0f461183425"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7854851
+project-id = 1501234

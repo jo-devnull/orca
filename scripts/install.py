@@ -8,8 +8,8 @@ from subprocess import run
 ROOT = Path(os.getcwd())
 
 TYPE_MAP = {
-    'datapack': 'packs/server',
-    'resourcepack': 'packs/client'
+    'datapacks': 'packs/server',
+    'resourcepacks': 'packs/client'
 }
 
 def platform_of(url: str):
@@ -51,7 +51,7 @@ def install(type: str, url: str):
             text = text.replace('filename = "', 'filename = "../')
             text = text.replace('side = "server"', 'side = "both"')
 
-            file.write_text(text)
+            file.write_text(text, encoding='utf-8')
 
         if modfile == None or not modfile.exists():
             raise FileNotFoundError("Mod not found")

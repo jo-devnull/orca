@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "../gigeresque-neoforge-1.21.1-0.8.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f9ba243c76fa5989758d7ddc6868bbc3f8efd86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132062
+project-id = 535416

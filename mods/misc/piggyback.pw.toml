@@ -1,0 +1,13 @@
+name = "Piggyback"
+filename = "../piggyback-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fac0a2ee129f6ba88538fdc19d2cd10ff12d9328"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7166646
+project-id = 1241247

@@ -1,0 +1,13 @@
+name = "Landmarksㅤ"
+filename = "../landmarks-neoforge-1.2.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae1a2998df9d27409f829f8607b72e1995255067"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7201073
+project-id = 1364401

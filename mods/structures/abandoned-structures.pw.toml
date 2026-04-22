@@ -1,0 +1,13 @@
+name = "Abandoned Structures"
+filename = "../abandoned_structures-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d82b8477e24b3ed60eb4cb9905cad697465d422"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7316480
+project-id = 1398609

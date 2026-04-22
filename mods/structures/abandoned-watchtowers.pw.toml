@@ -1,0 +1,13 @@
+name = "Abandoned Watchtowers"
+filename = "../Abandoned Watchtowers 7.0.1 NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "833b3e6bd0a0868833610678c7d76affa9c5e991"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7776832
+project-id = 1274025
