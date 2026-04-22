@@ -1,0 +1,13 @@
+name = "Xtra Arrows"
+filename = "../xtraarrows-3.4.3-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NROnqTK4/versions/YntdKzx3/xtraarrows-3.4.3-neoforge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "9a32a7c8767aa7f1317460d1dd6edb33f6a364a21f303a2a19dd8e7d02eb58b261455ae61805c542c87486e56160a0ad9b4ddf7d3606af24c2a2e91225cedfcf"
+
+[update]
+[update.modrinth]
+mod-id = "NROnqTK4"
+version = "YntdKzx3"

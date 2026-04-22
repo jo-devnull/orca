@@ -1,0 +1,13 @@
+name = "Simply More"
+filename = "../simplymore-neoforge-1.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b78306262809bbadbeeee92c314447f118ac5a1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7726482
+project-id = 1095252

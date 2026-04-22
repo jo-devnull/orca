@@ -1,0 +1,13 @@
+name = "Cable Facades"
+filename = "../cable_facades-1.21.1-NeoForge-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82ccad0ced0477728c2557049b4cb8c9b0042b89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950110
+project-id = 1140577

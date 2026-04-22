@@ -50,6 +50,166 @@ hash = "d493335936b6e45880e87a585badf46fc99cf67298bafe442f629314ca479924"
 metafile = true
 
 [[files]]
+file = "mods/decoration/amendments.pw.toml"
+hash = "105eccba88561dd5c7583d68749f8a17abd68a3d414266d7ff45663176e43de6"
+metafile = true
+
+[[files]]
+file = "mods/decoration/cable-facades.pw.toml"
+hash = "a668c461b96ea81c5f828e399959e9bab42317c373685c77ae2f0de33c6587c2"
+metafile = true
+
+[[files]]
+file = "mods/decoration/chimes.pw.toml"
+hash = "5e53b8d7cd6e863a8f97fd147a7c9564e6202c38b8ef5668c156de4350a7d50d"
+metafile = true
+
+[[files]]
+file = "mods/decoration/coastal-waves.pw.toml"
+hash = "35a722ae814f502c2c147d34dfc54ff666322e689fd4bbabd38a778d773ed3ae"
+metafile = true
+
+[[files]]
+file = "mods/decoration/create-deco.pw.toml"
+hash = "6d2684b2de2fb20b3c07976363a2948d219620f44bbcc570489b16b0c95e1903"
+metafile = true
+
+[[files]]
+file = "mods/decoration/dripsounds.pw.toml"
+hash = "82e7742b29265fa5bfea630911ebaa7d5e721d0be99504d2ec8d9a42be06be8c"
+metafile = true
+
+[[files]]
+file = "mods/decoration/explosive-enhancement-forge.pw.toml"
+hash = "3e7125d2e74efc6d06972dc61fc506a0edfeec75011f09c6452a01a0f8d36008"
+metafile = true
+
+[[files]]
+file = "mods/decoration/field-guide.pw.toml"
+hash = "3585d9ce77b3d0f4c01f002cbb9fcd8d2b947d4b3f78124f4ee8ce5994c5cb4d"
+metafile = true
+
+[[files]]
+file = "mods/decoration/handcrafted.pw.toml"
+hash = "853c88d3d854252912b1540fe34ee14db0a19efa27fa4d6d1fa2e01cb3d91e50"
+metafile = true
+
+[[files]]
+file = "mods/decoration/minecraft-cursor.pw.toml"
+hash = "ad37fc2036e1871e94da4f8da0933101734fdf544429d1731a04c9d193f4e6c3"
+metafile = true
+
+[[files]]
+file = "mods/decoration/polytone.pw.toml"
+hash = "5ba908d8e5e45daec96179b26ab893fddd9c7cf0ea310e7e0d37e49ec07af200"
+metafile = true
+
+[[files]]
+file = "mods/decoration/pretty-rain.pw.toml"
+hash = "7b4bad00475368f9e8f43db09b11cf2a1ca69598bb84c4ba18f844c88f283722"
+metafile = true
+
+[[files]]
+file = "mods/decoration/sooty-chimneys.pw.toml"
+hash = "f482871430125751b29c2e6719508fe49d89ab5cc2ed174aa141185fb29dcc8e"
+metafile = true
+
+[[files]]
+file = "mods/decoration/storage-delight.pw.toml"
+hash = "f27f12be446bd7c91e57c9677bb079cae196eba367fce62e6114bfa05550ca20"
+metafile = true
+
+[[files]]
+file = "mods/decoration/storage-drawers.pw.toml"
+hash = "23cdd00b682c8f79a0729e7ecd4e40b838be459b652c03c8ac903a96862fc1b6"
+metafile = true
+
+[[files]]
+file = "mods/decoration/supplementaries.pw.toml"
+hash = "36b018c33cc920e81da17401ea5a7a9a32337126e6cf1c1b538e3e821de2e43a"
+metafile = true
+
+[[files]]
+file = "mods/decoration/underlay.pw.toml"
+hash = "0d18f489e546030138f055dc45187b9f3211062d7e8aa453df25dd58491fdcc8"
+metafile = true
+
+[[files]]
+file = "mods/decoration/visual-workbench.pw.toml"
+hash = "5d4cb7d00b0a169c7f340e341ea3839d95b534820b89f12dfdf4fc0031eab06f"
+metafile = true
+
+[[files]]
+file = "mods/decoration/visuality-forge.pw.toml"
+hash = "be3fb78460be98da481084178755d34aa963d9241aacdd743d96b39c19f1d612"
+metafile = true
+
+[[files]]
+file = "mods/decoration/wakes-reforged.pw.toml"
+hash = "2625b132fc66994327218ac6fb2ad81ad6664cc9ff9c2a0419c25faf8529539b"
+metafile = true
+
+[[files]]
+file = "mods/equipment/backpacked.pw.toml"
+hash = "cb499c1c13e9814184410447062d72c81f40c98936ddca312804feb6b79ab871"
+metafile = true
+
+[[files]]
+file = "mods/equipment/ceramic-shears.pw.toml"
+hash = "03e474335267ce5f532ba8a482e170c9fc807ac97766b7e4d902ec2b86e47f5e"
+metafile = true
+
+[[files]]
+file = "mods/equipment/comforts.pw.toml"
+hash = "899d666c413b6229f0332b8a9e92f5815ab5f3cdb46fe8c85daa317dab0ce5c4"
+metafile = true
+
+[[files]]
+file = "mods/equipment/epic-samurais.pw.toml"
+hash = "d7ad0a32cfdd9e276bed5d9b8910f1b46458d4be5c0a6893a4df0ab1970ded21"
+metafile = true
+
+[[files]]
+file = "mods/equipment/fantasy-armor.pw.toml"
+hash = "d4709961c88d200d7c87cc800303e6d199c1ef2f4b31782772f5cc44deb729dc"
+metafile = true
+
+[[files]]
+file = "mods/equipment/hang-glider.pw.toml"
+hash = "13386638b42dccf8b9ca8752ed06742daa37c438811af84263d5e4c8b347a743"
+metafile = true
+
+[[files]]
+file = "mods/equipment/immersive-armors.pw.toml"
+hash = "977f9b8b8abc089ac94911f61af85c0ea9fecbd351b22853674e04a6803671e2"
+metafile = true
+
+[[files]]
+file = "mods/equipment/measurements.pw.toml"
+hash = "9400a7302c7c19ca7e134b3edc7171f08a078358ea4823507faeb0f1c8f09179"
+metafile = true
+
+[[files]]
+file = "mods/equipment/simply-more.pw.toml"
+hash = "d58b2e6a1a77cc629688915f7106e5e14e1221b138e36e38efa2132448405aa2"
+metafile = true
+
+[[files]]
+file = "mods/equipment/simply-swords.pw.toml"
+hash = "05a40728530b3364587f55df7b0be6c7d0dc93ecbf76266b00e745cae11db7b0"
+metafile = true
+
+[[files]]
+file = "mods/equipment/trimmable-tools.pw.toml"
+hash = "4aefcabbf79ef203174e8a431a82cd6e9de766b30ca9bed3821bd64b5f325d3c"
+metafile = true
+
+[[files]]
+file = "mods/equipment/xtra-arrows.pw.toml"
+hash = "8bd5dd729d722cf47b4a7153345f344b620a91966a8970589f08dceca21ea540"
+metafile = true
+
+[[files]]
 file = "mods/library/architectury-api.pw.toml"
 hash = "593f55fdacbf7805124814a788c313441ac9b6d7d195b03b0cbe70bf8e4214d6"
 metafile = true
@@ -80,6 +240,11 @@ hash = "b69954827d10eb65e2a16272527ef6e8ff6ede2e0cebdc63e1bd385b61a1e8e9"
 metafile = true
 
 [[files]]
+file = "mods/library/framework.pw.toml"
+hash = "bb7a379c17baa7cd42d5cac3cf8c7efa6d9fd2e41fb3a0fb0c05afbc0fb53bd0"
+metafile = true
+
+[[files]]
 file = "mods/library/fzzy-config.pw.toml"
 hash = "db89b59057347f7373e68e225fe9a56288b369b7e95996a42cb0985a9578fd54"
 metafile = true
@@ -90,8 +255,18 @@ hash = "6398a62ccca407ed0d2e5457312138f952cfedae7c3faebfadb22d0fce59c2db"
 metafile = true
 
 [[files]]
+file = "mods/library/immersive-overlays.pw.toml"
+hash = "4681563e2991a0175121afb3c88227e898dab6645589740085ee4bd51e530b3b"
+metafile = true
+
+[[files]]
 file = "mods/library/irons-lib.pw.toml"
 hash = "8037a79b02c02fc6855e0da10c4ecdfbd80a2a207dc16993d9c4846816a3ffcf"
+metafile = true
+
+[[files]]
+file = "mods/library/item-descriptions.pw.toml"
+hash = "e67ef0d482592d153ddda4e2b3fe87d54618f3f611094540d0116316558c71de"
 metafile = true
 
 [[files]]
@@ -130,6 +305,11 @@ hash = "48b184151baabe6d3d3f4638726c023172c4b06c856881dcb232e864f49740ef"
 metafile = true
 
 [[files]]
+file = "mods/library/puzzles-lib.pw.toml"
+hash = "d2256b6bf4538f2c5b0703b8c304f475f8d68f75f7088fb4c116aad06e14f98c"
+metafile = true
+
+[[files]]
 file = "mods/library/reeses-sodium-options.pw.toml"
 hash = "af84c65a4e042901215c571155d8aefb9b5bcdb69f25133d1ec90f7145da4da6"
 metafile = true
@@ -137,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/library/resourceful-config.pw.toml"
 hash = "40c32abec4baf04c7b2c654a761bcafd47a9eea40bc438cb33d5b27ccf2702a3"
+metafile = true
+
+[[files]]
+file = "mods/library/resourceful-lib.pw.toml"
+hash = "2c076ddcc5c67a07ac1c2fcef2d06e5df4d016181d32308ef7246880b5cf618d"
 metafile = true
 
 [[files]]
@@ -150,8 +335,18 @@ hash = "1cb3aa3f82c17eb75fdd3117517c40deb67b28313cf133259f8197fdc3d5b568"
 metafile = true
 
 [[files]]
+file = "mods/library/simply-tooltips.pw.toml"
+hash = "ce3d6feeefeedea9020246ff47d3b1ca0b130ba539cd5c313332764f1468a9a7"
+metafile = true
+
+[[files]]
 file = "mods/library/sodium-options-api.pw.toml"
 hash = "10110c5ecbd2996bf6704ab95a15db09d37b46cf4afea3da169627121f9a9111"
+metafile = true
+
+[[files]]
+file = "mods/library/terrablender.pw.toml"
+hash = "90b5fd9e82f12db205ca70e2f6edd4c158ecb2e6a497ea06ce1c9d2c8df80d19"
 metafile = true
 
 [[files]]

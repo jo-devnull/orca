@@ -1,0 +1,13 @@
+name = "Fantasy Armor (Medieval Series)"
+filename = "../fantasy_armor-neoforge-1.2.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b103680ca80a1d617dcae74630c4df8e93d3c55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7850813
+project-id = 1083998
