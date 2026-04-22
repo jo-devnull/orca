@@ -225,8 +225,23 @@ hash = "48723b75591dc49ad0821d868398bfc3d12f157031bf34170f66ecb986a4efd3"
 metafile = true
 
 [[files]]
+file = "mods/library/collective.pw.toml"
+hash = "d300719067f138a644f569dd975083b91c447d6e0f49bdcf144928801fa2111a"
+metafile = true
+
+[[files]]
+file = "mods/library/corgilib.pw.toml"
+hash = "1a589f1eed3fe7de3534c4ac284836ef8df2e4343d7a392f3244c31f703d63a5"
+metafile = true
+
+[[files]]
 file = "mods/library/craterlib.pw.toml"
 hash = "94ca1789e9937ab3073347a9c0461e78140fa4aba4c34b7a8b381702424c43ca"
+metafile = true
+
+[[files]]
+file = "mods/library/creativecore.pw.toml"
+hash = "7b943c2d46f2564f1fad46f47844f42e8906672bd1cc8fbd40878320bb888b03"
 metafile = true
 
 [[files]]
@@ -237,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/library/curios.pw.toml"
 hash = "b69954827d10eb65e2a16272527ef6e8ff6ede2e0cebdc63e1bd385b61a1e8e9"
+metafile = true
+
+[[files]]
+file = "mods/library/data-anchor.pw.toml"
+hash = "d1812f60a72f43439586319ded2b351dbcb549822d103b6d4d8a96a463f24a90"
 metafile = true
 
 [[files]]
@@ -285,6 +305,11 @@ hash = "91623a87b3c032709ab4fa5d8063b0a520e36bb9855a966236771afcb69d0fe5"
 metafile = true
 
 [[files]]
+file = "mods/library/monolib.pw.toml"
+hash = "306662cbe1439a80e2221262d98846767ff28b4dd83d385d7069418056cac552"
+metafile = true
+
+[[files]]
 file = "mods/library/moonlight.pw.toml"
 hash = "4cb29bd2ce14bc9c3879a7973b2c3b5f1feefc314406ee81cee254397b7504bc"
 metafile = true
@@ -295,8 +320,18 @@ hash = "1fb8b6bb20fd83bfb30cb89bae03d95469a3ba63152ab79b44f07ad19f773142"
 metafile = true
 
 [[files]]
+file = "mods/library/pandalib.pw.toml"
+hash = "649cf821d8c763ffbb6bb1c9f95522f058ee309137022d84ab2fb1fd5abc79a9"
+metafile = true
+
+[[files]]
 file = "mods/library/petrolpark.pw.toml"
 hash = "ee4dfb639221d13ce2dddd292dd148186d834422c3f041cfab42220457c756db"
+metafile = true
+
+[[files]]
+file = "mods/library/platform.pw.toml"
+hash = "f68d9711c7c7a4670078c64709ab53a7f68960b81cba6f124424f021012cf2a2"
 metafile = true
 
 [[files]]
@@ -335,6 +370,11 @@ hash = "1cb3aa3f82c17eb75fdd3117517c40deb67b28313cf133259f8197fdc3d5b568"
 metafile = true
 
 [[files]]
+file = "mods/library/selene.pw.toml"
+hash = "10d23e0da586271457158715e82918614db205875f42eb17939778c7d0584c48"
+metafile = true
+
+[[files]]
 file = "mods/library/simply-tooltips.pw.toml"
 hash = "ce3d6feeefeedea9020246ff47d3b1ca0b130ba539cd5c313332764f1468a9a7"
 metafile = true
@@ -350,8 +390,103 @@ hash = "90b5fd9e82f12db205ca70e2f6edd4c158ecb2e6a497ea06ce1c9d2c8df80d19"
 metafile = true
 
 [[files]]
+file = "mods/mechanics/better-combat.pw.toml"
+hash = "3ce5f076bfe9aca3e2449557c33720232a6c201d24e38868a14ff959b2f15aae"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/carry-on.pw.toml"
+hash = "28c4287e77fda7401813e7c780a7ed4766e7d5a4b6dd74798636e1e9238f3723"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/cold-sweat.pw.toml"
+hash = "5e915622ee7be1c199bf9abe18b841500a2733c4f91ec266dab3c77ed9c02292"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/corpse.pw.toml"
+hash = "c647971cfd52ddcf55ccd42e46030d85ba157046b2607215a7a4af98783523e8"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/dis-enchanting-table.pw.toml"
+hash = "a1d99cda7fc713927f8a8f08189c19a76e709be81ee2d2def583210028056234"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/enhanced-celestials.pw.toml"
+hash = "dafa364e4d0ff1c5b25657366070cbae57ac75fe1cd166f47d54401daeac55b8"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/fishing-real.pw.toml"
+hash = "55652e010a2ce55485c32170379ccdb7ef8adf886f3beae0104b7cdca1efd1c7"
+metafile = true
+
+[[files]]
 file = "mods/mechanics/irons-spells-n-spellbooks.pw.toml"
 hash = "16f972a332f43359e94cd197e7804a7abf35625c411352a11642c3f44db0248f"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/medical-remedies.pw.toml"
+hash = "242974c039cceddf4b3cfb5eae475819360bef0328c7519d17304797961f1f78"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/no-hostiles-around-campfire.pw.toml"
+hash = "95e220efda19a7fbb32379fab447aa7808bcda6e98bfa3c7e6cf0afb52e024d8"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/pandas-falling-trees.pw.toml"
+hash = "409d6182d60f8bf7ae45537bb0246aecb83750542f72db2b538fd74c088c8025"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/parcool.pw.toml"
+hash = "456c1d898cbc7222ce4976c5e035a8f2b85c45a6a5eb5ee58bc700aa976b55f2"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/playerrevive.pw.toml"
+hash = "67b2c1fba171015bad9fd276a0e50cdb22b9694c1c09f5e50c471f73ab9159d7"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/redstonepen.pw.toml"
+hash = "a38c552ad0baebbf9bba286b9d00481cfdedc91d9257ba8a9ef9f26a782dd6ad"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/sleep-tight.pw.toml"
+hash = "f10be45a74af9b5ca3eaa4befc311fa8ee15b266a00788df411c03173332b677"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/thirst-canteen.pw.toml"
+hash = "ed9357d31cffa7df909d72a4c246efc99456746b0d7c40858213e9740d3ff30c"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/thirst-was-taken.pw.toml"
+hash = "1ae211f5aeabd0609206d3bea8a98823a7702814fd4e88163ae8d6af3b0f2ddf"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/treechop.pw.toml"
+hash = "94d260e0cbf6c5169f5ad26ea9cb8d7b20dc9b119bee50aff500bbf1d50924e6"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/vanillabackport.pw.toml"
+hash = "0dc1f13e3738e56905a27bb760c89f0b3d8bbcdec114a3c65c2a7e6c17bded4a"
+metafile = true
+
+[[files]]
+file = "mods/mechanics/waystones.pw.toml"
+hash = "5f95d3efa6e48a130620085bee3a865dfc6227777a47d3f28c25c3188039918e"
 metafile = true
 
 [[files]]
@@ -599,4 +734,4 @@ hash = "7873711a5147db21ee07666621dc84ba308698346054b6d622cf1de48abd7025"
 
 [[files]]
 file = "scripts/install.py"
-hash = "63bd0ff4a4c4b3fb10c8d09f7707ff24fc7a183f216997fbc8ab9dee91779117"
+hash = "397ebe281c792427fb173aca109126b80c2d52025aa08ecce08e58e9851c9d05"

@@ -1,0 +1,13 @@
+name = "Fishing Real"
+filename = "../fishingreal-neoforge-1.21.1-1.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c1c8e33833aabbd5b14c65e464339763035facc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6465668
+project-id = 348834

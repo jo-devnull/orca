@@ -36,7 +36,10 @@ def install(type: str, url: str):
     os.makedirs(tempdir, exist_ok=True)
 
     if is_mod(type):
-        run(["packwiz.exe", "-y", platform, "add", url, "--meta-folder", tempdir])
+        try:
+            run(["packwiz.exe", "-y", platform, "add", url, "--meta-folder", tempdir], check=True)
+        except Exception:
+            return
 
         for file in tempdir.glob("*.pw.toml"):
             modname = file.name.replace(".pw.toml", "")

@@ -1,0 +1,13 @@
+name = "Thirst Canteen"
+filename = "../ThirstCanteen-1.21.1-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GV0PyXSv/versions/8L6mVLAs/ThirstCanteen-1.21.1-3.5.jar"
+hash-format = "sha512"
+hash = "85f98d862dd92bf53cd6c9a6cf08a253cab2a176e6c1c8a60e931f2008c3a2f95efa857a53dbc3056c0021e29051045b771c80667fec73c198ed21f4d713028e"
+
+[update]
+[update.modrinth]
+mod-id = "GV0PyXSv"
+version = "8L6mVLAs"

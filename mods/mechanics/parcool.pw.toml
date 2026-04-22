@@ -1,0 +1,13 @@
+name = "ParCool! ~ Minecraft Parkour ~"
+filename = "../ParCool-1.21.1-3.4.3.3-NF.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0ce92c2583875977919de722923abf18985c738"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7760593
+project-id = 482378

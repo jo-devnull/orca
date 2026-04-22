@@ -1,0 +1,13 @@
+name = "MonoLib"
+filename = "../monolib-neoforge-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99b1d2dffa9c623218b42d289e3d5b6f8f52bf1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7938113
+project-id = 968432
