@@ -1,0 +1,13 @@
+name = "Alex's Caves (Unofficial Port)"
+filename = "../alexscaves-2.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a21b02ef825124b417a7ed8e44afd68342c00748"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7518652
+project-id = 1420348

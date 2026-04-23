@@ -1,0 +1,13 @@
+name = "Awesome 3D Mace"
+filename = "../mace3d-1.2.0-1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47bc853901ab453be4f55c4759d1bc01364d7316"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7243121
+project-id = 1037680

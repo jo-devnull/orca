@@ -1,0 +1,13 @@
+name = "Adorable Hamster Pets"
+filename = "../adorablehamsterpets-3.5.0-1.21.1+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "109531ca8dc2e15f49e59c32fc662e05b840a1c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7596104
+project-id = 1306061

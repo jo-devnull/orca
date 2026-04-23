@@ -8,8 +8,8 @@ from subprocess import run
 ROOT = Path(os.getcwd())
 
 TYPE_MAP = {
-    'datapacks': 'packs/server',
-    'resourcepacks': 'packs/client'
+    'datapacks': 'packs/datapacks',
+    'resourcepacks': 'packs/resourcepacks'
 }
 
 def platform_of(url: str):

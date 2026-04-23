@@ -1,0 +1,13 @@
+name = "Forge CIT"
+filename = "../citresewn-neoforge-1.21.1-0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bda1b3a3f23d8dd1309055b00f9e8bc64b4f7469"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6250427
+project-id = 912099

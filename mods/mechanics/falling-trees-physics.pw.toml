@@ -1,0 +1,13 @@
+name = "Falling Trees Physics"
+filename = "../fallingtrees-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "640bb5ea0e2a040675d174934b6760033b162c46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7969577
+project-id = 1520071

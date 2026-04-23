@@ -1,0 +1,13 @@
+name = "Visual Enchantments"
+filename = "4.0.0v_VisualEnchantments.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CTAstxQN/versions/pHjNJ4Ki/4.0.0v_VisualEnchantments.zip"
+hash-format = "sha512"
+hash = "0f97b6078d009d132cae5595e7776409f4821db0ed45afa3d4fd78c9043f1ceb4476cecd11b7cc55ed12d14e2637e56acf5cdee0a06d5fa38bc027bda85543fe"
+
+[update]
+[update.modrinth]
+mod-id = "CTAstxQN"
+version = "pHjNJ4Ki"

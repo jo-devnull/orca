@@ -1,0 +1,13 @@
+name = "xali's Framed Planks"
+filename = "xali's Framed Planks v1.3.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2S1JI97F/versions/xo0V5Htj/xali%27s%20Framed%20Planks%20v1.3.0.zip"
+hash-format = "sha512"
+hash = "c6d789d17a315b3c211fd1f0d95dff6a1e8f55a18ad76f66331d4d90e5790a416341583206eae7dee33461e4d26b0c878907d413da2a8d90764eabe05cb13b76"
+
+[update]
+[update.modrinth]
+mod-id = "2S1JI97F"
+version = "xo0V5Htj"

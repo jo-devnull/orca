@@ -1,0 +1,13 @@
+name = "No Enchant Glint"
+filename = "§6No Enchant Glint 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrWwrISO/versions/VjvTSL12/%C2%A76No%20Enchant%20Glint%201.21.zip"
+hash-format = "sha512"
+hash = "0ec19e82f40a3396245267f479eb19cae24295216cf3c58b3e8469a4c1e36cbd62e683264b5d29058456cc8f45f752627526e4ddae6f1030325ebb1d46752dc0"
+
+[update]
+[update.modrinth]
+mod-id = "OrWwrISO"
+version = "VjvTSL12"

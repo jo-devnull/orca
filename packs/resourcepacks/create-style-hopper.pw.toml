@@ -1,0 +1,13 @@
+name = "create style hopper"
+filename = "Create_Style_Hopper_24_5_29.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/R2GeMPYs/versions/Shfv9h4j/Create_Style_Hopper_24_5_29.zip"
+hash-format = "sha512"
+hash = "4e12afb90698f7cf10684fb25fbdde3306fd059b3f8461ad1082a5086801dd1acd044f0c4327567c0b93e9cf650042f1ecc2578732c519af3d29d2cfe219dbf9"
+
+[update]
+[update.modrinth]
+mod-id = "R2GeMPYs"
+version = "Shfv9h4j"
